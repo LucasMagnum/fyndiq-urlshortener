@@ -1,4 +1,4 @@
-Fyndiq UrlShortner
+Fyndiq URLShortener
 ------------------
 
 A new, robust and flexible urlshortner.
@@ -16,7 +16,7 @@ the following command:
     make setup-dev
 
 
-The 'setup-dev' command will install all python requirements for this project.
+The `setup-dev` command will install all python requirements for this project.
 
 Once you have installed all requirements, you can run the devserver and see it online:
 
